@@ -30,13 +30,25 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    It represents a webpage's html elements as objects. It also allows us to manipulate and
+    interact with the webpage's elements.  It has a tree structure.  
+
 2. What is an event?
+
+    All interactions by the consumer of a website is an event.
 
 3. What is an event listener?
 
+    It is a method that takes an event and a callback to execute the event.
+
 4. Why would we convert a NodeList into an Array?
 
+    A NodeList is a browser API that can not accessed with javascript methods.  
+    Turning a NodeList into an array allows us to interact with its elements.
+
 5. What is a component?
+
+    It is the modern application development's building block.
 
 ### Git Set up
 
